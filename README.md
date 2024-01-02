@@ -6,6 +6,10 @@ This repository implements the method from the paper "NEURAL MACHINE TRANSLATION
 ## The project structure
 * pytorch-seq2seq:
     >- en_tr_dataset
+    >>- en_tr
+    >>>- test.txt
+    >>>- train.txt
+    >>>- val.txt
     >>- dataset_generator.py    
     >>- define_test_train_val_tr_en.py
     >>- en_tr_neural_machine_translation.ipynb
