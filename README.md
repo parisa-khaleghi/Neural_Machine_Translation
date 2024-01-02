@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 The implementation covers two datasets:
 <ol>
-<li>French to English: As provided in the original article.</li>
+<li>French to English: As provided in the original article. (<a href="https://www.statmt.org/europarl/v7/fr-en.tgz">link to dataset</a></li>)
 <li>English to Turkish: Generated using the tatoebatools library in Python.</li>
 </ol>
 
