@@ -9,6 +9,8 @@ This repository implements the method from the paper "NEURAL MACHINE TRANSLATION
     >>- dataset_generator.py    
     >>- define_test_train_val_tr_en.py
     >>- en_tr_neural_machine_translation.ipynb
+    >>- en_dataset.csv
+    >>- tr_dataset.csv
     >- fr_en_dataset_in_article
     >>- define_test_train_val_fr_en.py
     >>- kaggle_neural_machine_translation.ipynb
